@@ -10,8 +10,8 @@ This repository contains my practice code while learning the C programming langu
 - ✅ Functions
 - ✅ Arrays (1D, 2D)
 - ✅ Strings
-- ✅ Pointers (coming soon)
-- ✅ File Handling (coming soon)
+- ✅ Pointers 
+- ✅ File Handling 
 
 ## 🧪 Purpose
 
